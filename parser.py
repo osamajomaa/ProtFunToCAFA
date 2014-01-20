@@ -42,9 +42,3 @@ class protfun_parser:
         
         prot_file.close()
         cafa_file.close()
-    
-
-            
-            
-parser = protfun_parser()
-parser.protfun_to_cafa('9606.protfun.out')
